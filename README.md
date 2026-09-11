@@ -236,3 +236,6 @@ This repository serves as the official landing page for WS_FTP. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WS_FTP today!**
+
+---
+**Last updated:** 2026-09-11 13:54:20 UTC
