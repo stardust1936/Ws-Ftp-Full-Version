@@ -238,4 +238,4 @@ This repository serves as the official landing page for WS_FTP. The software is 
 **Get the most recent version of WS_FTP today!**
 
 ---
-**Last updated:** 2026-11-03 23:44:14 UTC
+**Last updated:** 2026-11-04 03:28:33 UTC
